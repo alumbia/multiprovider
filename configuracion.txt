@@ -8,4 +8,5 @@ entorno = producción
 # Configuración pendiente
 
 [EmpresaB]
-# Configuración pendiente
+api_key = B987654321
+retries = 5
