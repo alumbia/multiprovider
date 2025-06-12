@@ -1,0 +1,11 @@
+# Configuración del sistema
+
+[General]
+version = 1.0
+entorno = producción
+
+[EmpresaA]
+# Configuración pendiente
+
+[EmpresaB]
+# Configuración pendiente
