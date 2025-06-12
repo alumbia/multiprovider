@@ -5,7 +5,8 @@ version = 1.0
 entorno = producción
 
 [EmpresaA]
-# Configuración pendiente
+api_key = A123456789
+timeout = 30
 
 [EmpresaB]
 # Configuración pendiente
