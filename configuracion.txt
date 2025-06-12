@@ -1,7 +1,7 @@
 # Configuración del sistema
 
 [General]
-version = 2.0
+version = 2.1
 entorno = producción
 
 [EmpresaA]
